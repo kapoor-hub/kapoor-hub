@@ -1,7 +1,6 @@
 - 👋 Hi, I’m divyesh_kapoor
 - 👀 I’m interested in reading books and learning new things.
 - 🌱 I’m currently learning c++.
-- 💞️ I’m looking to collaborate on linked in.
 - 📫 How to reach me- dsce.
 
 <!---
